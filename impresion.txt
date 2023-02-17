@@ -1,0 +1,4 @@
+Sistema operativo: Windows 10 Home Single Language
+Nombre de usuario: LAPTOP-BON04TCN
+Procesador: AMD Ryzen 5 5500U with Radeon Graphics         
+Memoria ram total: 7.87-GB (7868-MB)
